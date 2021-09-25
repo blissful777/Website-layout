@@ -1,0 +1,1198 @@
+body{
+    position: relative;
+width: 375px;
+height: 4524px;
+}
+
+.logo_black{
+    /* logo_mobile_black 1 */
+position: absolute;
+width: 52.19px;
+height: 30.75px;
+left: 35px;
+top: 36px;
+}
+
+.globe{
+    /* globe */
+position: absolute;
+width: 10.25px;
+height: 9.79px;
+left: 35px;
+top: 111.95px;
+}
+
+.watch{
+/* img_135744 */
+position: absolute;
+width: 10.25px;
+height: 10.25px;
+left: 121.21px;
+top: 111.49px;
+}
+.calendar{
+    /* calendar_2 */
+position: absolute;
+width: 9.32px;
+height: 10.25px;
+left: 196.23px;
+top: 111.49px;
+}
+
+.online{
+    /* онлайн-курс */
+position: absolute;
+width: 60.58px;
+height: 14.91px;
+left: 48.98px;
+top: 100.35px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 115%;
+color: #000000;
+}
+
+.time{
+    /* 18 часов */
+position: absolute;
+width: 60.58px;
+height: 14.91px;
+left: 136.12px;
+top: 100.35px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 115%;
+color: #000000;
+}
+
+.date{
+    /* 8 сентября */
+position: absolute;
+width: 60.58px;
+height: 14.91px;
+left: 211.6px;
+top: 100.35px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 115%;
+color: #000000;
+}
+
+.film{
+    /* Как смотреть кино */
+position: absolute;
+width: 292.63px;
+height: 88.53px;
+left: 35.47px;
+top: 134.32px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 37px;
+line-height: 101.38%;
+color: #000000;
+}
+
+.about{
+    /* За 8 занятий станем активными зрителями и разберёмся в кинопроцессе */
+position: absolute;
+width: 212.4px;
+height: 28.96px;
+left: 35.74px;
+top: 225.07px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 150%;
+}
+
+.img1{
+    /* noroot 1 */
+position: absolute;
+width: 141.66px;
+height: 165.89px;
+left: 201px;
+top: 254px;
+}
+
+.figure1{
+    /* Ellipse 1 */
+position: absolute;
+width: 127.68px;
+height: 19.1px;
+left: 215px;
+top: 410px;
+background: #EFEFEF;
+border-radius: 127.68px/19.1px;
+}
+
+.author{
+    /* Group 1 */
+position: absolute;
+width: 225.36px;
+height: 93.19px;
+left: 37.98px;
+top: 467.75px;
+}
+
+.text1{
+    /* Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы». */
+position: absolute;
+width: 308.47px;
+height: 174.27px;
+left: 36px;
+top: 687.72px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 150%;
+}
+
+.text2{
+    position: absolute;
+width: 308.47px;
+height: 174.27px;
+left: 36px;
+top: 780px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 150%;
+}
+
+.curse{
+    /* О курсе */
+position: absolute;
+width: 170.08px;
+height: 43.34px;
+left: 36px;
+top: 636px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+
+.operator{
+    /* _1 1 */
+position: absolute;
+width: 146.32px;
+height: 146.78px;
+left: 113.12px;
+top: 918px;
+}
+
+.figure2{
+    /* Ellipse 2 */
+position: absolute;
+width: 170.55px;
+height: 27.49px;
+left: 101px;
+top: 1050.8px;
+background: #EFEFEF;
+border-radius:170.55px/27.49px;
+}
+
+.one{
+/* 8 занятий */
+position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 1124px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+}
+
+.two{
+/* Для погружения в кинематограф */
+position: absolute;
+width: 86px;
+height: 18px;
+left: 35px;
+top: 1143px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.three{
+/* 2 часа */
+position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 154.16px;
+top: 1124px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+}
+
+.four{
+/* Длительность каждого занятия */
+position: absolute;
+width: 86.89px;
+height: 18.5px;
+left: 154.33px;
+top: 1142.46px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.five{
+/* 3 недели */
+position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 1195px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+}
+
+.six{
+/* Длительность курса */
+position: absolute;
+width: 76px;
+height: 18px;
+left: 35px;
+top: 1214px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.form{
+    /* Формат занятий */
+position: absolute;
+width: 310.8px;
+height: 43.34px;
+left: 36px;
+top: 1308px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+
+.seven{
+/* Вебинары */
+position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 1368px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+color: #1E4681;
+}
+
+.eight{
+/* Занятия проходят онлайн в режиме вебинаров с преподавателем */
+position: absolute;
+width: 180px;
+height: 48px;
+left: 35px;
+top: 1387px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.nine{
+/* Доступ навсегда */
+position: absolute;
+width: 99.72px;
+height: 18.17px;
+left: 35.38px;
+top: 1445px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+color: #1E4681;
+}
+
+.ten{
+/* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
+position: absolute;
+width: 165px;
+height: 51px;
+left: 35px;
+top: 1464px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.eleven{
+/* Общение */
+position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 36px;
+top: 1534px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 130%;
+color: #1E4681;
+}
+
+.twelve{
+/* Вы можете задать вопрос преподавателю на занятии */
+position: absolute;
+width: 159px;
+height: 31px;
+left: 36px;
+top: 1553px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+}
+
+.think{
+    /* Что узнаем */
+position: absolute;
+width: 310.8px;
+height: 43.34px;
+left: 36px;
+top: 1657px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+
+ul{
+    /* Кто чем занят в съёмочной группе; На какие этапы делится кинопроизводство; Как выглядит сценарий фильма и как он меняется по ходу съёмок; Какими методами режиссёры заставляют нас смеяться, плакать и грустить; Как построение кадра, музыка и свет помогают считывать заложенные в фильм смыслы; Какие жанры есть в кино и как от них зависит работа операторов, осветителей и монтажёров; Как, зная всё это, понимать, о чем фильм. */
+position: absolute;
+width: 299px;
+height: 174px;
+left: 10px;
+top: 1710px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 150%;
+}
+
+.prog{
+    /* Программа курса */
+position: absolute;
+width: 421.7px;
+height: 43.34px;
+left: 34px;
+top: 1969px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+
+.figure4{
+    /* Rectangle 4 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2048px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+}
+
+.img10{
+    /* Rectangle 5 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2048px;
+border-top: 13.9792px;
+}
+
+.film{
+    /* 1. Как создают кино */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2115.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+}
+
+.aboutfilm{
+    /* 8 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2150.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+}
+
+.figure5{
+/* Rectangle 6 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2225px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+}
+
+.img11{
+/* Rectangle 7 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2225px;
+border-top: 13.9792px;
+}
+
+.filmone{
+/* 2. Взгляд драматурга */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2292.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+}
+
+.aboutfilmone{
+/* 10 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2327.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+}
+
+.figure6{
+/* Rectangle 8 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2402px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+    }
+    
+    .img12{
+/* Rectangle 9 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2402px;
+border-top: 13.9792px;
+    }
+    
+    .filmtwo{
+/* 3. Взгляд режиссёра */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2469.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+    }
+    
+    .aboutfilmtwo{
+/* 13 сентября 13:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2505.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+    }
+
+    .figure7{
+/* Rectangle 10 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2579px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+            }
+            
+            .img13{
+/* Rectangle 13 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2579px;
+border-top: 13.9792px;
+            }
+            
+            .filmthree{
+/* 4. Взгляд монтажёра */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2646.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+            }
+            
+            .aboutfilmthree{
+/* 15 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2681.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+            }
+
+            .figure7{
+/* Rectangle 10 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2579px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+            }
+            
+            .img13{
+/* Rectangle 13 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2579px;
+border-top: 13.9792px;
+            }
+            
+            .filmthree{
+/* 4. Взгляд монтажёра */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2646.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+            }
+            
+            .aboutfilmthree{
+/* 15 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2681.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+            }
+ .figure7{
+/* Rectangle 10 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2579px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+            }
+            
+            .img13{
+/* Rectangle 13 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2579px;
+border-top: 13.9792px;
+            }
+            
+            .filmthree{
+/* 4. Взгляд монтажёра */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 2646.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+            }
+            
+            .aboutfilmthree{
+/* 15 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 2681.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+}    
+
+.figure8{
+/* Rectangle 11 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 96px;
+top: 2756px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+ }
+
+ .img14{
+/* Rectangle 14 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 96px;
+top: 2756px;
+border-top: 13.9792px;
+ }
+
+.filmfour{
+/* 5. Жанры в кино */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 105.32px;
+top: 2823.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+}
+                
+ .aboutfilmfour{
+/* 17 сентября 20:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 104.85px;
+top: 2858.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+ }
+
+ .figure9{
+/* Rectangle 12 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 2933px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+ }
+                    
+.img15{
+/* Rectangle 15 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 2933px;
+border-top: 13.9792px;
+}
+                    
+.filmfive{
+/* 6. Язык кино. Семинар */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 3000.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+ }
+                    
+.aboutfilmfive{
+/* 20 сентября 13:00 Данила Кузнецов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 3035.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+ }
+
+ .figure10{
+/* Rectangle 16 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 3110px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+   }
+                        
+ .img16{
+/* Rectangle 19 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 3110px;
+border-top: 13.9792px;
+   }
+                        
+.filmsix{
+/* 7. Взгляд кинокритика */
+position: absolute;
+width: 170.08px;
+height: 18.17px;
+left: 104.32px;
+top: 3175.68px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 130%;
+     }
+                        
+    .aboutfilmsix{
+/* 21 сентября 19:00 Дмитрий Скворцов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 3212.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+         }
+
+.figure11{
+/* Rectangle 17 */
+position: absolute;
+width: 185.92px;
+height: 152.84px;
+left: 95px;
+top: 3287px;
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
+}
+                                    
+.img17{
+/* Rectangle 20 */
+position: absolute;
+width: 185.92px;
+height: 74.56px;
+left: 95px;
+top: 3287px;
+border-top: 13.9792px;
+}
+                                    
+.filmseven{
+/* 8. Осознанный зритель. Семинар */
+position: absolute;
+width: 170.08px;
+height: 33.08px;
+left: 104.32px;
+top: 3357.01px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 97%;
+}
+                                    
+.aboutfilmseven{
+/* 22 сентября 19:00 Дмитрий Скворцов */
+position: absolute;
+width: 170.08px;
+height: 29.36px;
+left: 103.85px;
+top: 3389.77px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+}
+
+.number{
+    /* Курс прошло уже 1616 человек */
+position: absolute;
+width: 257px;
+height: 69px;
+left: 35px;
+top: 3529px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+
+.img25{
+    /* Group 7 */
+position: absolute;
+width: 308px;
+height: 235px;
+left: 30px;
+top: 3609px;
+}
+
+.img26{
+    /* 1 9 */
+position: absolute;
+width: 80px;
+height: 75px;
+left: 51px;
+top: 3750px;
+}
+
+.name{
+/* Екатерина Палехова */
+position: absolute;
+width: 164.49px;
+height: 32.73px;
+left: 149.63px;
+top: 3750.54px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 101.38%;
+}
+
+.facebook{
+/* fb_2 1 */
+position: absolute;
+width: 14.91px;
+height: 17.2px;
+left: 149.63px;
+top: 3790.26px;
+}
+
+.rectangle21{
+    /* Rectangle 22 */
+position: absolute;
+width: 376px;
+height: 423px;
+left: -1px;
+top: 3487px;
+background: #EFEFEF;
+}
+
+.icon2{
+/* Rectangle 23 */
+position: absolute;
+width: 398px;
+height: 363.46px;
+left: -23px;
+top: 3910px;
+background: #9DC9C8;
+}
+
+.inception{
+    /* Начало курса — 8 сентября */
+position: absolute;
+width: 224px;
+height: 63px;
+left: 34px;
+top: 3960px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 101.38%;
+}
+
+.cash{
+    /* Стоимость */
+position: absolute;
+width: 79.22px;
+height: 14.91px;
+left: 33.85px;
+top: 4057.33px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 101.38%;
+}
+
+.cash2{
+    /* 3900 руб. */
+position: absolute;
+width: 224.13px;
+height: 84.34px;
+left: 33.85px;
+top: 4055.3px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 101.38%;
+}
+
+.level{
+    /* Для любого уровня */
+position: absolute;
+width: 137px;
+height: 14.91px;
+left: 34.85px;
+top: 4143.53px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 101.38%;
+}
+
+.zero{
+/* Курс подходит и тем, кто начинает «с нуля», и тем, кто хочет упорядочить имеющиеся знания. */
+position: absolute;
+width: 138px;
+height: 47px;
+left: 34px;
+top: 4163px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 101.38%;
+}
+
+.level2{
+/* Проходите сейчас */
+position: absolute;
+width: 151px;
+height: 14px;
+left: 203px;
+top: 4144px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 101.38%;
+}
+
+.zero2{
+    /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
+position: absolute;
+width: 140px;
+height: 38px;
+left: 203px;
+top: 4163px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 101.38%;
+}
+
+.icon3{
+    /* Rectangle 24 */
+position: absolute;
+width: 394px;
+height: 251px;
+left: -19px;
+top: 4273px;
+}
+
+.icon4{
+    /* logo_mobile_white 1 */
+position: absolute;
+width: 53.59px;
+height: 31.69px;
+left: 37.85px;
+top: 4296.3px;
+}
+
+.social{
+/* noroot(4) */
+position: relative;
+width: 15.38px;
+height: 15.38px;
+left: 18px;
+top: 4341.96px;
+display: flex;
+        }
+    
+.social2{
+ margin-left: 20px;
+ }
+
+ .info{
+     /* +7 (499) 39-146-39 */
+position: absolute;
+width: 107.17px;
+height: 18.64px;
+left: 60.83px;
+top: 4407.33px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 101.38%;
+color: #FFFFFF;
+ }
+
+ .img20{
+     /* phone_white */
+position: absolute;
+width: 12.58px;
+height: 12.58px;
+left: 38px;
+top: 4417px;
+ }
+
+ .info2{
+     /* hello@synchronize.ru */
+position: absolute;
+width: 125.35px;
+height: 18.64px;
+left: 60.83px;
+top: 4427.37px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 101.38%;
+color: #FFFFFF;
+ }
+
+ .img21{
+     /* mail_white */
+position: absolute;
+width: 12.58px;
+height: 8.39px;
+left: 38px;
+top: 4441px;
+ }
+
+ .footer{
+     /* © Синхронизация, 2020 */
+position: absolute;
+width: 141px;
+height: 10px;
+left: 38px;
+top: 4495px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 101.38%;
+color: #FFFFFF;
+ }
